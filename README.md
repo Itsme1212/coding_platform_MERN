@@ -1,7 +1,7 @@
 
 Steps to execute the project:
 
-1) Download / "git clone https://github.com/Itsme1212/coding_platform_MERN.git" the zip file
+1) Download "git clone https://github.com/Itsme1212/coding_platform_MERN.git" the zip file
 2) Open that zip file in any code editor like vs code.
 3) npm install
 4) cd backend && npm install
