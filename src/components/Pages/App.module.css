@@ -1,0 +1,8 @@
+.section {
+    @apply bg-gray-100 h-full md:h-screen w-full;
+  }
+  
+ 
+  .layout {
+    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 justify-items-center gap-4;
+  }

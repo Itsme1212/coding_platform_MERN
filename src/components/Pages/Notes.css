@@ -1,0 +1,28 @@
+.box-model{
+    width: auto;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    border-color:rgba(19, 6, 6, 0.504);
+}
+
+.lead-main{
+    width: auto;
+   padding-bottom: 1%;
+}
+
+
+.code-main{
+
+    width: auto;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+
+.hr-main{
+
+line-break:strict;   
+ width: auto;
+    
+}

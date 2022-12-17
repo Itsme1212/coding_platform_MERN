@@ -1,0 +1,46 @@
+
+*{
+    margin: 0;
+    /* background-image: url('../../../public/smart.jpg'); */
+    /* background-repeat: no-repeat; */
+
+}
+.Home-Main-1{
+    background-attachment: fixed;
+    /* height: 100vh;
+    overflow-y: hidden; */
+}
+.h1-1,.h1-2{
+    text-align: center;
+    font-size: 70px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@500&display=swap');
+.p-1{
+    text-align: center;
+    width: 50%;
+    font-size: 40px;
+    font-family: 'Cormorant Unicase', serif;
+}
+.description-Main{
+    display: flex;
+    background-color: white;
+    background-image: linear-gradient(to right,rgb(207, 218, 222),white);
+    width: 100%;
+}
+#starter{
+    background-color: green;
+    color: white;
+    margin-left: 43%;
+    padding: 5px;
+    border-radius: 25px;
+    font-size: 25px;
+}
+#starter:hover{
+    background-color: rgb(50, 237, 50);
+    color: rgb(227, 29, 29);
+}
+#example-collapse-text p{
+    border: 2px solid tomato;
+}
