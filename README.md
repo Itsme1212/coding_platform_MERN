@@ -8,6 +8,25 @@ Steps to execute the project:
 5) To start the project, use: npm run both (It enables both frontend and backend)
  Note: use npm run dev in base directory (not in backend directory)
 
+Project UI: 
+1) To gain access to the website, users must first register on a straightforward login page.
+![login](https://github.com/Itsme1212/coding_platform_MERN/assets/91713947/9cbbd3bb-ac4f-4bcf-bac9-1e22283cd20e)
+
+2) Basic credentials need to be entered for successful registration.
+![register](https://github.com/Itsme1212/coding_platform_MERN/assets/91713947/85f7bc0f-9a3a-49b1-9101-4dbc1fc3c4f6)
+
+3) After logging into the website, home page of different courses are displayed.
+![home](https://github.com/Itsme1212/coding_platform_MERN/assets/91713947/e2231c0d-d81a-42d1-ac4f-00d7bdb03fb1)
+
+4) A code editor, which is an effective functionality providing support over 40 languages and 40 themes. User can execute their codes with ease.
+![editor](https://github.com/Itsme1212/coding_platform_MERN/assets/91713947/7f398f07-181d-4d18-9471-aaefd1b05370)
+
+5) User can solve problems which are placement specific.
+![solve](https://github.com/Itsme1212/coding_platform_MERN/assets/91713947/bdfd2721-5a19-4c35-a010-3810220dbe97)
+
+6) A hackathon page.
+![hack](https://github.com/Itsme1212/coding_platform_MERN/assets/91713947/cfeb6e77-aae1-4f6e-b13a-7ed379ebcf8e)
+
 
 
 
